@@ -1,4 +1,3 @@
-# Stress-Level-Detection
 # 🧠 Stress Level Detection using Machine Learning
 
 This project predicts a person's stress level based on physiological and lifestyle features using a trained machine learning model. It includes a Jupyter Notebook for EDA and training, and a deployed Streamlit web app for interactive predictions.
