@@ -9,7 +9,7 @@ import pandas as pd
 import pickle
 import streamlit as st
 
-loaded_model=pickle.load(open('C:/Users/bhavy/Downloads/Deployment/trained_model.sav','rb'))
+loaded_model=pickle.load(open('trained_model.sav','rb'))
 
 st.title("🧠 Stress Level Detection App")
 st.write("Fill in the information below:")
